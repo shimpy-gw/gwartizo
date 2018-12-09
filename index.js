@@ -7,7 +7,7 @@ var bot = new Discord.Client();
 var servers = {};
 
 bot.on("ready", function() {
-    bot.user.setGame("nothing")
+    bot.user.setStatus("dnd");
     console.log("Ready");
 });
 
