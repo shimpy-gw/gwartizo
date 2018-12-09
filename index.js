@@ -5,7 +5,7 @@ var bot = new Discord.Client();
 var servers = {};
 
 bot.on("ready", function() {
-    bot.user.setGame("pornhub.com | best free porn videos")
+    bot.user.setGame("Fortnite 📄")
     console.log("Ready");
 });
 
