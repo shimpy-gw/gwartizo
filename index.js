@@ -5,7 +5,7 @@ var bot = new Discord.Client();
 var servers = {};
 
 bot.on("ready", function() {
-    bot.user.setGame("> start singite.exe ")
+    bot.user.setGame("pornhub.com | best free porn videos")
     console.log("Ready");
 });
 
