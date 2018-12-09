@@ -5,7 +5,7 @@ var bot = new Discord.Client();
 var servers = {};
 
 bot.on("ready", function() {
-    bot.user.setGame("Si tu lis cela, abonne toi à Fortnite *EN* France ")
+    bot.user.setGame("Owned by pornhub.com/profile/singiteaigu ")
     console.log("Ready");
 });
 
