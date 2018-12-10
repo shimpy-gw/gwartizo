@@ -21,6 +21,7 @@ bot.on('message', async message => {
     //3 deletes and send message
       if (foundInText) {
         message.delete();
+        message.channel.sendMessage('')
     }
 });
 
@@ -38,6 +39,7 @@ bot.on('message', async message => {
     //3 deletes and send message
       if (foundInText) {
         message.delete();
+        message.channel.sendMessage('')
     }
 });
 
